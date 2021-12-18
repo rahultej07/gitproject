@@ -1,0 +1,23 @@
+{
+    "cards":[{
+        "img":"images/im1.jpg",
+        "name":"OnePlus Nord",
+         "rate":"29999",
+         "offer":"Offer--27999",
+         "button":"view"
+    },{
+        "img":"images/im2.jpg",
+        "name":"Oppo Reno 6",
+         "rate":"34999",
+         "offer":"Offer--31999",
+         "button":"view"
+    },{
+        "img":"images/im3.jpg",
+        "name":"Honor 9 Lite",
+         "rate":"12999",
+         "offer":"Offer--10999",
+         "button":"view"
+    }
+
+    ]
+}
